@@ -1,3 +1,4 @@
+package Maths;
 public class Sum_of_two {
     public static void main(String[] args) {
         int a = 5;

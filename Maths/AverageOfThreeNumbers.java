@@ -1,3 +1,4 @@
+package Maths;
 public class AverageOfThreeNumbers {
     public static void main(String[] agrs){
         int num1 = 50;
