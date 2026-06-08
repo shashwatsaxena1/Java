@@ -1,6 +1,6 @@
 public class AverageOfThreeNumbers {
     public static void main(String[] agrs){
-        int num1 = 10;
+        int num1 = 50;
         int num2 = 20;
         int num3 = 30;
 

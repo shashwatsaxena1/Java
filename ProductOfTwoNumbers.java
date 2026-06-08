@@ -1,6 +1,6 @@
 public class ProductOfTwoNumbers {
     public static void main(String[] args) {
-        int num1 = 5; 
+        int num1 = 10; 
         int num2 = 10; 
 
         int product = num1 * num2;
