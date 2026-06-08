@@ -7,7 +7,7 @@ public class SwapUsingThird {
         int num1 = sc.nextInt();
         System.out.print("Enter the second number: ");
         int num2 = sc.nextInt();
-        int temp = num1;
+        int temp = num1;// Store the value of num1 in a temporary variable
         num1 = num2;
         num2 = temp;
         System.out.println("After swapping:");
