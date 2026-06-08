@@ -1,4 +1,4 @@
-package Bacis;
+package Basic;
 import java.util.Scanner;
 public class SwapUsingThird {
     public static void main(String[] agrs){
