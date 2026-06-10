@@ -7,7 +7,7 @@ public class AreaTriangle {
         double base = sc.nextDouble();
         System.out.print("Enter the height of the triangle: ");
         double height = sc.nextDouble();
-        double area = 0.5 * base * height;
+        double area = 0.5 * base * height; //formula of area of triangle
         System.out.println("The area of the triangle is: " + area);
         sc.close();
     }
