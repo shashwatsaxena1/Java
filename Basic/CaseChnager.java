@@ -10,5 +10,6 @@ public class CaseChnager {
         System.out.println("Original string: " + input);
         System.out.println("Uppercase: " + input.toUpperCase());
         System.out.println("Lowercase: " + input.toLowerCase());
+        sc.close();
     }
 }
