@@ -1,3 +1,4 @@
+package Conditionals;
 import java.util.*;
 
 public class Basic_Calculator {
