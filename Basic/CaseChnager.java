@@ -1,6 +1,6 @@
 // upper case to lower case and vice versa
 
-package Conditionals;
+package Basic;
 import java.util.Scanner;
 public class CaseChnager {
     public static void main(String[] args) {
