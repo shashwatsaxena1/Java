@@ -16,5 +16,6 @@ public class GradeCalc {
         } else {
             System.out.println("Your grade is F.");
         }
+        sc.close();
     }
 }
